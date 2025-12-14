@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "BURNING LIKE FIRE",
+  "base_artist": "DAVE RODGERS feat. ALEX DE ROSSO",
+  "createdAt": "2025-12-14T13:14:38.675285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burning Like Fire",
+      "artist": "DJ Flavours",
+      "has_synced": false,
+      "path": "select/01_Burning_Like_Fire_DJ_Flavours.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Torn - Burning Like Fire",
+      "artist": "At Vance",
+      "has_synced": false,
+      "path": "select/02_Torn_-_Burning_Like_Fire_At_Vance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burning Like Fire",
+      "artist": "2 Unlimited",
+      "has_synced": false,
+      "path": "select/03_Burning_Like_Fire_2_Unlimited.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burning Like Fire",
+      "artist": "Two Unlimited",
+      "has_synced": false,
+      "path": "select/04_Burning_Like_Fire_Two_Unlimited.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burning Like Fire",
+      "artist": "Claire Guerreso",
+      "has_synced": false,
+      "path": "select/05_Burning_Like_Fire_Claire_Guerreso.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Torn - Burning Like Fire",
+      "artist": "At Vance",
+      "has_synced": true,
+      "path": "select/06_Torn_-_Burning_Like_Fire_At_Vance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burning Like Fire",
+      "artist": "Iona",
+      "has_synced": false,
+      "path": "select/07_Burning_Like_Fire_Iona.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "04 - Burning Like Fire",
+      "artist": "2 Unlimited",
+      "has_synced": false,
+      "path": "select/08_04_-_Burning_Like_Fire_2_Unlimited.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Burning Like Fire",
+      "artist": "2 Unlimited",
+      "has_synced": false,
+      "path": "select/09_Burning_Like_Fire_2_Unlimited.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Burning Like Fire",
+      "artist": "2 Unlimited",
+      "has_synced": true,
+      "path": "select/10_Burning_Like_Fire_2_Unlimited.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Burning Like Fire",
+      "artist": "dave rodgers, Alex De Rosso",
+      "has_synced": false,
+      "path": "select/pl_01_Burning_Like_Fire_dave_rodgers,_Alex_De_Rosso.txt"
+    }
+  ]
+}
